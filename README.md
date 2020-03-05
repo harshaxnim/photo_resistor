@@ -4,7 +4,7 @@ A mono-pixel photo camera.
 
 ## Getting Started
 
-First of all, you need to get the circuit set up. I have used a nano, but you could use any other compatible controller. It's too much effort to create a schematic diagram of the connection, so I will just list the Pin Name to device mapping.
+First of all, you need to get the circuit set up. I have used a nano, but you could use any other compatible controller. I am too lazy to create a schematic diagram of the connections, so I will just list the pins-to-device mapping.
 
 ```
 Photoresistor: A0
