@@ -14,9 +14,9 @@ A **mono-pixel** camera built using a single photo-resistor, two servos and an A
 
 Of course, the output is hardly photogenic. Here's a sample:
 
-![Sample Output](http://life.inspirho.in/wp-content/uploads/2020/03/interlacingIssue.png)
+![Sample Output](http://life.inspirho.com/wp-content/uploads/2020/03/interlacingIssue.png)
 
-Read my blog-post describing the build-process here: http://life.inspirho.in/diy/photo-resistor/
+Read my blog-post describing the build-process here: http://life.inspirho.com/diy/photo-resistor/
 
 ## Getting Started
 
